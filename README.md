@@ -3,6 +3,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 25 October, 2021 - 31 October, 2021
+
 Vue.js       30 hrs 42 mins  ██████████████▓░░░░░░░░░░   58.67 % 
 Python       8 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
 TypeScript   5 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
