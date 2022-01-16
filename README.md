@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
 TypeScript   ██████████████████████▒░░░░░░░░░░░░░░░░░░   54.19 % 
 Vue.js       ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   24.42 % 
