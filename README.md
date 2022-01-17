@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tri</h1>
+<h1 align="center">👋 Tri here</h1>
 <h3 align="center">An enthusiastic frontend developer</h3>
 
 <!--START_SECTION:waka-->
