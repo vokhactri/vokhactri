@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 Python       █████████████████████▓░░░░░░░░░░░░░░░░░░░   52.98 % 
 TypeScript   ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   29.64 % 
