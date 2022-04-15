@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-Vue.js                       ████████████████████▒░░░░   81.91 %
-TypeScript                   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Vue.js                       ██████████████████████▓░░   90.53 %
+TypeScript                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
 ```
 
 <!--END_SECTION:waka-->
