@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
-TypeScript                       ████████████████████▒░░░░   81.25 %
-Ruby                             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Other                            █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+TypeScript                       ██████████████████████▓░░   90.92 %
+Other                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
