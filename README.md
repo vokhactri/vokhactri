@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
 Other                   █████████████████████████   100.00 %
 ```
