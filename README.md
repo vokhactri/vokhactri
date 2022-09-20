@@ -4,7 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 September 2022 - To: 19 September 2022
+
+Objective-C                   █████████████████████░░░░   83.59 %
+Java                          ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
 ```
 
 <!--END_SECTION:waka-->
