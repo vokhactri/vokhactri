@@ -4,10 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-Objective-C                   █████████████████████░░░░   83.59 %
-Java                          ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+Vue.js                           ███████████░░░░░░░░░░░░░░   43.44 %
+TypeScript                       █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+JSON                             ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+Other                            ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
 ```
 
 <!--END_SECTION:waka-->
